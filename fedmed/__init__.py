@@ -1,0 +1,1 @@
+# FedMed: federated learning for brain tumor segmentation
