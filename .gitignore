@@ -1,0 +1,19 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+
+# Datasets and model files
+data/
+checkpoints/
+*.nii
+*.nii.gz
+*.pt
+*.pth
+
+# Certificates and private keys
+*.pem
+*.key
+certs/
