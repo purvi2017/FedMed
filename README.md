@@ -15,7 +15,7 @@ Work in progress. Nothing has been trained yet.
 
 ## Planned work
 
-- [ ] Load and preprocess MRI scans
+- [x] Load and preprocess MRI scans
 - [ ] Train a 3D U-Net baseline on one machine
 - [ ] Federated training with Flower (3 clients, FedAvg)
 - [ ] Privacy features (differential privacy, secure aggregation)
